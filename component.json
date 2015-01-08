@@ -1,0 +1,14 @@
+{
+  "name": "send-form",
+  "repo": "lapwinglabs/send-form",
+  "description": "simply send form data synchronously using javascript",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
